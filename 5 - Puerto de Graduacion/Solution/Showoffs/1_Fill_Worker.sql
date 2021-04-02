@@ -1,0 +1,22 @@
+INSERT INTO WORKER (NAME, FIRSTNAME, LOAN, WORKPLACE)
+VALUES
+('Bogomil','Tiidrik', 37, 1),
+('Mumin','Deepak', 15, 1),
+('Gershon','Martin', 22, 2),
+('Svetomir','Bashar', 17, 1),
+('Keenan','Gabriel', 22, 2),
+('Atlas','Jacob', 43, 5),
+('Azhar','Mohan', 39, 5),
+('Ivan','Sandip', 45, 6),
+('Arthur','Lysander', 30, 3),
+('Volker','Jere', 32, 3),
+('Natanaele','Mateusz', 17, 1),
+('Adetokunbo','Manoj', 29, 4),
+('Walther','Jimi', 27, 4),
+('Igor','Brahma', 24, 2),
+('Amani','Kwabena', 31, 3),
+('Maqsood','Petko', 47, 5),
+('Erminio','Slavomir', 31, 3),
+('Lachlan','Gervasius', 48, 6),
+('Leontius','Khwaja', 21, 7),
+('Mongkut','Malkhaz', 27, 7);

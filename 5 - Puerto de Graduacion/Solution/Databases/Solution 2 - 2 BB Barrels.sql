@@ -1,0 +1,5 @@
+SELECT BARREL_ID,
+       date(STORAGEDATE, +'30 days') AS READY_FOR_SALE,
+       julianday(date(STORAGEDATE, +'30 days'))-julianday('1703-06-19') as DAYS_LEFT
+FROM BARREL
+ORDER BY READY_FOR_SALE ASC;
